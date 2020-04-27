@@ -25,3 +25,24 @@
 ## Notification
 - email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
 - (optional) send the customer a link to the web app to see updated order status
+
+### Project Steps
+Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
+- [x] Project Step 1 C# - Concept Investigation (**InWork**)
+- [x] Project Step 2 C# - Project Selection (**InWork**
+- [x] Project Step 3 C# - Presentation/Peer Review
+- [x] Project Step 4 SQL - DB Design
+- [x] Project Step 5 SQL - DB Implementation
+- [x] Project Step 6 SQL - UI/UX Wireframe(s)
+- [x] [Project Step 7 MVC]() - Requirements, Use Case
+- [x] Project Step 8 MVC - Test Planning
+- [x] Project Step 9 MVC - Prototype
+- [x] Project Step 10 Azure - In-Process Review (IPR)
+- [x] [Project Step 11 Azure]() - Data Model class implementation (EF)
+- [x] [Project Step 12 Azure]() - DB Integration
+- [x] [Project Step 13 Azure]() - Sprint Planning 
+- [ ] [Project Step 14 Azure]() - Sprint Review 
+- [ ] Project Step 15 Azure - Preliminary Product Delivery
+- [ ] Project Step 16 Azure - CSS & Responsive Design
+- [ ] Project Step 17 Azure - TDD/Updated Test Report
+- [ ] Project Step 18 Azure - Final Project Review
