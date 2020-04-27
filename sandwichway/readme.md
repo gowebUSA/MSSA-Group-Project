@@ -30,8 +30,8 @@
 
 ### Project Steps
 Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
-- [ ] Project Step 1 C# - Concept Investigation **(**InWork**)**
-- [ ] Project Step 2 C# - Project Selection (**InWork**)
+- [ ] Project Step 1 C# - Concept Investigation **(InWork)**
+- [ ] Project Step 2 C# - Project Selection **(InWork)**
 - [ ] Project Step 3 C# - Presentation/Peer Review
 - [ ] Project Step 4 SQL - DB Design
 - [ ] Project Step 5 SQL - DB Implementation
