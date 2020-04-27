@@ -17,11 +17,11 @@
 ## Admin (Back-end Group)
 - (optional) give the business owner the ability to edit the available items
 1. Lien Zhang
-3. Cameron Cox
+2. Cameron Cox
 
 ## Data
 - design and implement data strategy 
-2. Olugbenga Shofela (Data)
+1. Olugbenga Shofela (Data)
 
 ## Notification
 - email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
