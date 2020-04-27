@@ -26,6 +26,7 @@
 ## Notification
 - email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
 - (optional) send the customer a link to the web app to see updated order status
+1. Chris Smith
 
 ### Project Steps
 Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
