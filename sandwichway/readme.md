@@ -53,7 +53,7 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 Week 1
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | 
 |--------|---------|-----------|----------|--------|----------|--------|
-|
+| Start |         |           |         |         |         |     |
 
 Week 2
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | 
