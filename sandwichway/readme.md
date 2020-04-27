@@ -7,6 +7,7 @@
 1. Chris Smith
 2. Elijah Taylor
 3. Zach Jones
+4. Anthony Simon
 
 ## Back-end Group
 1. Lien Zhang
