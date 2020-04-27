@@ -47,4 +47,4 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [ ] Project Step 15 Azure - Preliminary Product Delivery
 - [ ] Project Step 16 Azure - CSS & Responsive Design
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
-- [ ] Project Step 18 Azure - Final Project Review
+- [ ] Project Step 18 Azure - Final Project Review - 8 May 2020
