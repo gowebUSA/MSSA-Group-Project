@@ -60,5 +60,5 @@ Week 2
 | 4      | 5       | 6         | 7        | 8      | 
 |--------|---------|-----------|----------|--------|
 | Monday | Tuesday | Wednesday | Thursday | Friday | 
-|Step 14 |         |           |  Due     |        | 
+|Step 14 |         | Step 15   |  Due     |        | 
 
