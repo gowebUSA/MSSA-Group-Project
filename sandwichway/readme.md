@@ -47,18 +47,18 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [ ] Project Step 15 Azure - Preliminary Product Delivery - 6 May 2020 @ 4 PM
 - [ ] Project Step 16 Azure - CSS & Responsive Design
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
-- [ ] Project Step 18 Azure - Final Project Review - 8 May 2020 @ 8 AM
+- [ ] Project Step 18 Azure - Final Project Review - 7 May 2020 @ 8 AM
 
 ## Calendar
 Week 1
 | 27     | 28      | 29        | 30       | 1      | 2        | 3      |
 |--------|---------|-----------|----------|--------|----------|--------|
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | 
-| Start |         |            |          |        |          |        |
+| Start | Step 3   |            | Step 10 | Step 13|          |        |
 
 Week 2
 | 4      | 5       | 6         | 7        | 8      | 
 |--------|---------|-----------|----------|--------|
 | Monday | Tuesday | Wednesday | Thursday | Friday | 
-|        |         |           |  Due     |        | 
+|Step 14 |         |           |  Due     |        | 
 
