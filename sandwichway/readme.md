@@ -39,12 +39,12 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [ ] Project Step 7 MVC - Requirements, Use Case
 - [ ] Project Step 8 MVC - Test Planning
 - [ ] Project Step 9 MVC - Prototype
-- [ ] Project Step 10 Azure - In-Process Review (IPR)
+- [ ] Project Step 10 Azure - In-Process Review (IPR) - 30 Apr 2020 @ 4 PM
 - [ ] Project Step 11 Azure - Data Model class implementation (EF)
 - [ ] Project Step 12 Azure - DB Integration
-- [ ] Project Step 13 Azure - Sprint Planning 
-- [ ] Project Step 14 Azure - Sprint Review 
-- [ ] Project Step 15 Azure - Preliminary Product Delivery
+- [ ] Project Step 13 Azure - Sprint Planning - 1 May 2020 @ 4 PM
+- [ ] Project Step 14 Azure - Sprint Review - 4 May 2020 @ 4 PM
+- [ ] Project Step 15 Azure - Preliminary Product Delivery - 6 May 2020 @ 4 PM
 - [ ] Project Step 16 Azure - CSS & Responsive Design
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
 - [ ] Project Step 18 Azure - Final Project Review - 8 May 2020 @ 8 AM
