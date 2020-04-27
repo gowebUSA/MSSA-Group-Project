@@ -1,5 +1,5 @@
 # SandwichWay
-- Check out our progeress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
+- Check out our progress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
 
 ## Scrum Master
 1. Richard Go
