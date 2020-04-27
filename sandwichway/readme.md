@@ -1,4 +1,4 @@
-# Sandwichway
+# SandwichWay
 - Check out our progeress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
 
 ## Scrum Master
