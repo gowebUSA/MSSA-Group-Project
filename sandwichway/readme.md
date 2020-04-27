@@ -1,4 +1,5 @@
 # Sandwichway
+- Check out our progeress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
 
 ## Scrum Master
 1. Richard Go
@@ -7,7 +8,7 @@
 - web page should display the menu of available items, allow adding and removing from order 
 - (optionally) pre-populate previous or saved order for returning customers
 - factory view ... what orders are in the queue and how do you mark each item and each order complete
-- Check out the log [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
+
 1. Chris Smith
 2. Elijah Taylor
 3. Zach Jones
