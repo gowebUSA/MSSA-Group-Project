@@ -32,7 +32,7 @@
 Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
 - [X] Project Step 1 C# - Concept Investigation - SandwichWay
 - [ ] Project Step 2 C# - Project Selection **(InWork)**
-- [ ] Project Step 3 C# - Presentation/Peer Review
+- [ ] Project Step 3 C# - Presentation/Peer Review - 28 Apr 2020 @ 4 PM
 - [X] [Project Step 4 SQL](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/SandwichWay.jpg) - DB Design **(Ready For Review)**
 - [ ] Project Step 5 SQL - DB Implementation
 - [ ] Project Step 6 SQL - UI/UX Wireframe(s)
@@ -47,4 +47,4 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [ ] Project Step 15 Azure - Preliminary Product Delivery
 - [ ] Project Step 16 Azure - CSS & Responsive Design
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
-- [ ] Project Step 18 Azure - Final Project Review - 8 May 2020
+- [ ] Project Step 18 Azure - Final Project Review - 8 May 2020 @ 8 AM
