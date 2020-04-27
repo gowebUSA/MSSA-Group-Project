@@ -21,7 +21,7 @@
 
 ## Data
 - design and implement data strategy 
-1. Olugbenga Shofela (Data)
+1. Olugbenga Shofela
 
 ## Notification
 - email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
