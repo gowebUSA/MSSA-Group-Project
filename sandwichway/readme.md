@@ -4,7 +4,7 @@
 ## Scrum Master
 1. Richard Go
 
-## Front-end Group Memebers:
+## Front-end Group Members:
 - web page should display the menu of available items, allow adding and removing from order 
 - (optionally) pre-populate previous or saved order for returning customers
 - factory view ... what orders are in the queue and how do you mark each item and each order complete
