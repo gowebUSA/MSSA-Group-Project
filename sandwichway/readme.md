@@ -9,7 +9,7 @@
 - (optionally) pre-populate previous or saved order for returning customers
 - factory view ... what orders are in the queue and how do you mark each item and each order complete
 
-1. Chris Smith
+1. Chris Smith - ERD, Wireframe
 2. Elijah Taylor
 3. Zach Jones
 4. Anthony Simon
