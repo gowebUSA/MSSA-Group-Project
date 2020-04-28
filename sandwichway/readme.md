@@ -5,9 +5,9 @@
 1. Richard Go
 
 ## Front-end Group Members:
-- web page should display the menu of available items, allow adding and removing from order 
-- (optionally) pre-populate previous or saved order for returning customers
-- factory view ... what orders are in the queue and how do you mark each item and each order complete
+- Web page should display the menu of available items, allow adding and removing from order 
+- Pre-populate previous or saved order for returning customers (optionally)
+- Factory view ... what orders are in the queue and how do you mark each item and each order complete
 
 1. Chris Smith - ERD, Wireframe
 2. Elijah Taylor
@@ -15,7 +15,7 @@
 4. Anthony Simon
 
 ## Admin (Back-end Group)
-- (optional) give the business owner the ability to edit the available items
+- Give the business owner the ability to edit the available items (optional)
 - Key Vault so we can protect admin username and password for 
    * SQL Database
 1. Lien Zhang
@@ -23,12 +23,12 @@
 
 ## Data
 ![ERD](/sandwichway/files/SandwichWay.jpg)
-- design and implement data strategy 
+- Design and implement data strategy 
 1. Olugbenga Shofela
 
 ## Notification
-- email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
-- (optional) send the customer a link to the web app to see updated order status
+- Email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
+- Send the customer a link to the web app to see updated order status (optional)
 1. Chris Smith
 
 ### Project Steps
