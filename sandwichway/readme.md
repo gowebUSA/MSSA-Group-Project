@@ -16,6 +16,8 @@
 
 ## Admin (Back-end Group)
 - (optional) give the business owner the ability to edit the available items
+- Key Vault so we can protect admin username and password for 
+   * SQL Database
 1. Lien Zhang
 2. Cameron Cox
 
