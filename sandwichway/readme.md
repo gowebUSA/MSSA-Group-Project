@@ -22,6 +22,7 @@
 2. Cameron Cox
 
 ## Data
+![ERD](/sandwichway/files/SandwichWay.jpg)
 - design and implement data strategy 
 1. Olugbenga Shofela
 
