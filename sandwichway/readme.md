@@ -1,5 +1,14 @@
 # SandwichWay
 - Check out our progress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
+### Participants
+1. Richard Go
+1. Chris Smith - ERD, Wireframe
+1. Elijah Taylor
+1. Zach Jones
+1. Anthony Simon
+1. Lien Zhang
+1. Cameron Cox
+1. Olugbenga Shofela
 
 ## Scrum Master
 1. Richard Go
