@@ -72,7 +72,7 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [X] Project Step 2 C# - Project Selection **(InWork)**
 - [X] Project Step 3 C# - Presentation/Peer Review - 28 Apr 2020 @ 4 PM
 - [X] [Project Step 4 SQL](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/SandwichWay.jpg) - DB Design **(Ready For Review)**
-- [X] [Project Step 5 SQL](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/sandwich.sql) - DB Implementation - Olu
+- [X] [Project Step 5 SQL](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/sandwich.sql) - DB Implementation - Olu **(Ready For Review)**
 - [ ] Project Step 6 SQL - UI/UX Wireframe(s) - Chris S.
 - [ ] Project Step 7 MVC - Requirements, Use Case - 
    * front-end - Anthony, Elijah, Zach
