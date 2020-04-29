@@ -26,7 +26,7 @@ This app will be used on a physical store. No need for delivery at the moment.
    * Cleared orders should go go to History page for audit.
 
 - Check out our progress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
-### Collaborators
+## Collaborators
 1. Richard Go
 1. Chris Smith
 1. Elijah Taylor
@@ -36,10 +36,10 @@ This app will be used on a physical store. No need for delivery at the moment.
 1. Cameron Cox
 1. Olugbenga Shofela
 
-## Scrum Master
+### Scrum Master
 1. Richard Go
 
-## Front-end Group Members:
+### Front-end Group Members:
 - Web page should display the menu of available items, allow adding and removing from order 
 - Pre-populate previous or saved order for returning customers (optionally)
 - Factory view ... what orders are in the queue and how do you mark each item and each order complete
@@ -49,19 +49,19 @@ This app will be used on a physical store. No need for delivery at the moment.
 3. Zach Jones
 4. Anthony Simon
 
-## Admin (Back-end Group)
+### Admin (Back-end Group)
 - Give the business owner the ability to edit the available items (optional)
 - Key Vault so we can protect admin username and password for 
    * SQL Database
 1. Lien Zhang
 2. Cameron Cox
 
-## Data
+### Data
 ![ERD](/sandwichway/files/SandwichWay.jpg)
 - Design and implement data strategy 
 1. Olugbenga Shofela
 
-## Notification
+### Notification
 - Email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
 - Send the customer a link to the web app to see updated order status (optional)
 1. Chris Smith
@@ -89,7 +89,7 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
 - [ ] Project Step 18 Azure - Final Project Review - 7 May 2020 @ 8 AM
 
-## Calendar
+### Calendar
 Week 1
 | 27     | 28      | 29        | 30       | 1      | 2        | 3      |
 |--------|---------|-----------|----------|--------|----------|--------|
