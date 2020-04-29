@@ -1,4 +1,30 @@
 # SandwichWay
+This app will be used on a physical store. No need for delivery at the moment. 
+1. Customer will place an order.
+   * Choose the following:
+      * Bread
+      * Toppings
+      * Drinks
+      * Chips
+2. Customer pays.
+   * Name
+   * Credit Card Info
+   * Zip code
+   * Phone number
+3. Send notifications for progress of the order
+   * Order received
+   * Order in progress (in the making)
+   * Finish order
+   * You can pick up order
+4. Admin side
+   * Check cart
+   * Accept order (SMS, take it out from cart or highlight - yellow)
+   * Make order (SMS)
+   * Finish order (SMS, highlight - green)
+   * Order picked up (highlight - red)
+   * Clear order (cart)
+   * Cleared orders should go go to History page for audit.
+
 - Check out our progress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
 ### Participants
 1. Richard Go
@@ -19,7 +45,7 @@
 - Factory view ... what orders are in the queue and how do you mark each item and each order complete
 
 1. Chris Smith - ERD, Wireframe
-2. Elijah Taylor
+2. Elijah Taylor - 
 3. Zach Jones
 4. Anthony Simon
 
