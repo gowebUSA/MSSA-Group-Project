@@ -26,7 +26,7 @@ This app will be used on a physical store. No need for delivery at the moment.
    * Cleared orders should go go to History page for audit.
 
 - Check out our progress [here](https://github.com/gowebUSA/MSSA-Group-Project/wiki/Log).
-### Participants
+### Collaborators
 1. Richard Go
 1. Chris Smith
 1. Elijah Taylor
