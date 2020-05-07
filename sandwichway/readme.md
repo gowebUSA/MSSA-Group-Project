@@ -73,19 +73,19 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [X] Project Step 3 C# - Presentation/Peer Review - 28 Apr 2020 @ 4 PM
 - [X] [Project Step 4 SQL](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/SandwichWay.jpg) - DB Design **(Ready For Review)**
 - [X] [Project Step 5 SQL](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/sandwich.sql) - DB Implementation - Olu **(Ready For Review)**
-- [ ] Project Step 6 SQL - UI/UX Wireframe(s) - Chris S.
-- [ ] Project Step 7 MVC - Requirements, Use Case - 
+- [X] Project Step 6 SQL - UI/UX Wireframe(s) - Chris S. & Anthony S.
+- [X] [Project Step 7 MVC](https://github.com/gowebUSA/MSSA-Group-Project/issues) - Requirements, Use Case - 
    * front-end - Anthony, Elijah, Zach
    * admin - Cameron, Lien
-- [ ] Project Step 8 MVC - Test Planning
-- [ ] Project Step 9 MVC - Prototype - Richard
-- [ ] Project Step 10 Azure - In-Process Review (IPR) - 30 Apr 2020 @ 4 PM
-- [ ] Project Step 11 Azure - Data Model class implementation (EF)
-- [ ] Project Step 12 Azure - DB Integration
-- [ ] Project Step 13 Azure - Sprint Planning - 1 May 2020 @ 4 PM
-- [ ] Project Step 14 Azure - Sprint Review - 4 May 2020 @ 4 PM
-- [ ] Project Step 15 Azure - Preliminary Product Delivery - 6 May 2020 @ 4 PM
-- [ ] Project Step 16 Azure - CSS & Responsive Design
+- [X] Project Step 8 MVC - Test Planning
+- [X] Project Step 9 MVC - Prototype - Richard
+- [X] Project Step 10 Azure - In-Process Review (IPR) - 30 Apr 2020 @ 4 PM
+- [X] Project Step 11 Azure - Data Model class implementation (EF)
+- [X] Project Step 12 Azure - DB Integration
+- [X] Project Step 13 Azure - Sprint Planning - 1 May 2020 @ 4 PM
+- [X] Project Step 14 Azure - Sprint Review - 4 May 2020 @ 4 PM
+- [X] Project Step 15 Azure - Preliminary Product Delivery - 6 May 2020 @ 4 PM - moved to 5 pm
+- [ ] Project Step 16 Azure - CSS & Responsive Design **(In Work)**
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
 - [ ] Project Step 18 Azure - Final Project Review - 7 May 2020 @ 8 AM
 
