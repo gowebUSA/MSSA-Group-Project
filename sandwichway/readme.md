@@ -102,3 +102,5 @@ Week 2
 | Monday | Tuesday | Wednesday | Thursday | Friday | 
 |Step 14 |         | Step 15   |  Due     |        | 
 
+### Burnchart
+![Burnchart 5-7-20](https://github.com/gowebUSA/MSSA-Group-Project/blob/master/sandwichway/files/burnchart-5-7.png?raw=true)
