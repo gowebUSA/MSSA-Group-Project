@@ -40,9 +40,9 @@ This app will be used on a physical store. No need for delivery at the moment.
 1. Richard Go
 
 ### Front-end Group Members:
-- Web page should display the menu of available items, allow adding and removing from order 
+- Web page should display the menu of available items, allow adding and removing from order `/Sandwich/List`
 - Pre-populate previous or saved order for returning customers (optionally)
-- Factory view ... what orders are in the queue and how do you mark each item and each order complete
+- Factory view ... what orders are in the queue and how do you mark each item and each order complete `/ShoppingCart`
 
 1. Chris Smith - ERD, Wireframe
 2. Elijah Taylor - 
@@ -50,19 +50,19 @@ This app will be used on a physical store. No need for delivery at the moment.
 4. Anthony Simon
 
 ### Admin (Back-end Group)
-- Give the business owner the ability to edit the available items (optional)
-- Key Vault so we can protect admin username and password for 
+- Give the business owner the ability to edit the available items (optional) 
+- Key Vault so we can protect admin username and password for (optional) 
    * SQL Database
 1. Lien Zhang
 2. Cameron Cox
 
 ### Data
-![ERD](/sandwichway/files/SandwichWay.jpg)
 - Design and implement data strategy 
+![ERD](/sandwichway/files/SandwichWay.jpg)
 1. Olugbenga Shofela
 
 ### Notification
-- Email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...)
+- Email or SMS (text) to the user when the order status changes (e.g., received, ready, delivered, ?...) (optional)
 - Send the customer a link to the web app to see updated order status (optional)
 1. Chris Smith
 
